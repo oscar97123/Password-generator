@@ -79,4 +79,5 @@ def main():
         print('Your newly generated password: ', password)
 
 
-main()
+if __name__ == '__main__':
+    main()
